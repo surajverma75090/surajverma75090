@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
 
 <h1 align="center">Hi 👋, I'm Suraj Verma</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajverma75090&label=Profile%20views&color=0e75b6&style=flat" alt="surajverma75090" /> </p>
